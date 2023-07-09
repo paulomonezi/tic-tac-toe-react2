@@ -4,12 +4,12 @@
 
 ### 🔗 Links
 #### 💡 _Project:_
-👉 <a href="https://tic-tac-toe-react-ochre.vercel.app" target="_blank">https://tic-tac-toe-react-ochre.vercel.app</a>
+👉 <a href="https://tic-tac-toe-react2.vercel.app" target="_blank">https://tic-tac-toe-react2.vercel.app</a>
 
 <br>
 
 #### 🌎 _Languages:_ 
--  Também disponível em pt-BR 👉 <a href="https://github.com/paulomonezi/tic-tac-toe-react/blob/main/READMEptBR.md" target="_blank">Aqui</a>
+-  Também disponível em pt-BR 👉 <a href="https://github.com/paulomonezi/tic-tac-toe-react2/blob/main/READMEptBR.md" target="_blank">Aqui</a>
 
 <br>
 
